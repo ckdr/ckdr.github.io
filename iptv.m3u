@@ -2,10 +2,8 @@
 #EXTINF:-1 ,CCTV-1高清
 http://iptv.tvfix.org/hls/cctv1hd.m3u8
 #EXTINF:-1 ,CCTV-1高清-1
-http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv1/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 ,CCTV-1高清-2
 http://39.135.138.60:18890/TVOD/88888910/224/3221225642/index.m3u8
-#EXTINF:-1 ,CCTV-1高清-3
+#EXTINF:-1 ,CCTV-1高清-2
 http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
 #EXTINF:-1 ,CCTV-2高清
 http://iptv.tvfix.org/hls/cctv2hd.m3u8
@@ -15,10 +13,6 @@ http://iptv.tvfix.org/hls/cctv3hd.m3u8
 http://iptv.tvfix.org/hls/cctv4hd.m3u8
 #EXTINF:-1 ,CCTV-5高清
 http://iptv.tvfix.org/hls/cctv5hd.m3u8
-#EXTINF:-1 ,CCTV-5高清-1
-http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv5/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 ,CCTV-5高清-2
-http://111.11.121.184:6610/030000001001/cctv-5/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 ,CCTV-5+高清
 http://iptv.tvfix.org/hls/cctv5phd.m3u8
 #EXTINF:-1 ,CCTV-5+高清-1
@@ -26,8 +20,6 @@ http://111.20.33.93/TVOD/88888893/224/3221226221/index.m3u8
 #EXTINF:-1 ,CCTV-5+高清-2
 http://117.148.179.136/TVOD/88888888/224/3221231459/index.m3u8
 #EXTINF:-1 ,CCTV-5+高清-3
-http://111.11.121.184:6610/030000001001/hdcctv05plus/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 ,CCTV-5+高清-4
 http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
 #EXTINF:-1 ,CCTV-6高清
 http://iptv.tvfix.org/hls/cctv6hd.m3u8
@@ -54,10 +46,8 @@ http://iptv.tvfix.org/hls/cctv16hd.m3u8
 #EXTINF:-1 ,CCTV-16高清-1
 http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1 ,CCTV-16高清-2
-http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 ,CCTV-16高清-3
 http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
-#EXTINF:-1 ,CCTV-16高清-4
+#EXTINF:-1 ,CCTV-16高清-3
 http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
 #EXTINF:-1 ,CCTV-17高清
 http://iptv.tvfix.org/hls/cctv17hd.m3u8
