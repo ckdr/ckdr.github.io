@@ -41,8 +41,10 @@ http://192.168.50.1:8686/rtp/239.3.1.214:4220
 http://192.168.50.1:8686/rtp/239.3.1.130:8004
 #EXTINF:-1 group-title ="央视" tvg-name="CCTV4K",CCTV-4K 超高清[超清HDR]
 http://192.168.50.1:8686/rtp/239.3.1.245:2000
-#EXTINF:-1 group-title ="卫视" tvg-name="北京卫视",BRTV北京卫视[高清]
-http://192.168.50.1:8686/rtp/239.3.1.241:8000
+# #EXTINF:-1 group-title ="卫视" tvg-name="北京卫视",BRTV北京卫视[高清]
+# http://192.168.50.1:8686/rtp/239.3.1.241:8000
+#EXTINF:-1 group-title ="卫视" tvg-name="北京卫视",BRTV北京卫视[超清HDR]
+http://192.168.50.1:8686/rtp/239.3.1.118:8001
 #EXTINF:-1 group-title ="卫视" tvg-name="湖南卫视",湖南卫视[高清]
 http://192.168.50.1:8686/rtp/239.3.1.132:8012
 #EXTINF:-1 group-title ="卫视" tvg-name="东方卫视",东方卫视[高清]
